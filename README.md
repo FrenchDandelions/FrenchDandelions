@@ -1,5 +1,7 @@
 ## Hi there 👋
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
+
+- 📫 How to reach me: don't :D
 <!--
 **FrenchDandelions/FrenchDandelions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
