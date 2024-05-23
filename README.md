@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchDandelions&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
 
 - 📫 How to reach me: don't :D
