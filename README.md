@@ -3,6 +3,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchDandelions&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
 
+- 😄 Pronouns: he/him 🏳️‍🌈
 - 🔭 I’m currently working on the CPP09 project
 - 🌱 I’m currently learning OOP
 - 📫 How to reach me: don't :D
