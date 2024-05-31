@@ -1,6 +1,6 @@
 ## Hi there 👋
 https://capsule-render.vercel.app/api?
-![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&text=Have%20Fun&textBg=false&reversal=false&fontColor=FFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FF0000,20:FF7F00,40:FFFF00,60:00FF00,80:0000FF,100:8B00FF&text=Happy%20Pride%20Month&textBg=false&reversal=false&fontColor=FFFF&animation=fadeIn)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchDandelions&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
 
