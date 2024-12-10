@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FF4500,20:FF7F50,40:FFD700,60:FFD700,80:FF7F50,100:FF4500&text=Happy%20Summer!&fontColor=FFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FF4500,20:FF7F50,40:FFD700,60:FFD700,80:FF7F50,100:FF4500&text=Happy%20Winter!&fontColor=FFFF&animation=fadeIn)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchDandelions&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
 
