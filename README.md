@@ -4,7 +4,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
 
 - 😄 Pronouns: he/him 🏳️‍🌈
-- 🔭 I’m currently working on ft_transcendance
+- 🔭 I’m currently working on Inception of Things
 - 🌱 I’m currently learning OOP as well
 - 📫 How to reach me: don't :D
 <!--
