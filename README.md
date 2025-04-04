@@ -3,10 +3,10 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchDandelions&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
 
-- 😄 Pronouns: he/him 🏳️‍🌈
+- 😄 Pronouns: he/him
 - 🔭 I’m currently working on Inception of Things
-- 🌱 I’m currently learning OOP as well
-- 📫 How to reach me: don't :D
+- 🌱 I’m currently learning OOP in Python
+- 📫 How to reach me: pro.le.thomas@gmail.com
 <!--
 **FrenchDandelions/FrenchDandelions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
