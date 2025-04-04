@@ -1,9 +1,9 @@
 ## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:1E90FF,20:87CEEB,40:00CED1,60:48D1CC,80:7B68EE,100:4B0082&text=Happy%20Winter!&fontColor=FFFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FFD700,20:FFA07A,40:98FB98,60:00FA9A,80:87CEFA,100:FF69B4&text=🌸%20Spring%20🌸&fontColor=FFFF&animation=fadeIn)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchDandelions&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
 
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him 🏳️‍🌈
 - 🔭 I’m currently working on Inception of Things
 - 🌱 I’m currently learning OOP in Python
 - 📫 How to reach me: pro.le.thomas@gmail.com
