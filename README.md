@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FFD700,20:FFA07A,40:98FB98,60:00FA9A,80:87CEFA,100:FF69B4,120:FFFFFF&text=🌸%20Spring%20🌸&fontAlign=50&descAlign=60&fontSize=60&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=125&color=0:FFD700,20:FFA07A,40:98FB98,60:00FA9A,80:87CEFA,100:FF69B4,120:FFFFFF&text=🌸%20Spring%20🌸&fontAlign=50&descAlign=60&fontSize=60&animation=fadeIn&fontColor=FFFFFF)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=FrenchDandelions&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrenchDandelions&theme=holi&layout=compact)
 
